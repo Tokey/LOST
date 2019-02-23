@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadPlanet-master", "BadPlanet-master.csproj", "{BDE54442-CA6E-2B25-ECD9-E4C6B1EBEFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadPlanet-master.Editor", "BadPlanet-master.Editor.csproj", "{6CE9BAA9-8FDF-1F61-531D-5D0DCE959613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE54442-CA6E-2B25-ECD9-E4C6B1EBEFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE54442-CA6E-2B25-ECD9-E4C6B1EBEFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE54442-CA6E-2B25-ECD9-E4C6B1EBEFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE54442-CA6E-2B25-ECD9-E4C6B1EBEFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE9BAA9-8FDF-1F61-531D-5D0DCE959613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE9BAA9-8FDF-1F61-531D-5D0DCE959613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE9BAA9-8FDF-1F61-531D-5D0DCE959613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE9BAA9-8FDF-1F61-531D-5D0DCE959613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
